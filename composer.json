@@ -1,5 +1,5 @@
 {
-    "name": "henriqueramos/laravel_json_schema_validator",
+    "name": "ahmedbally/laravel-json-schema-validator",
     "type": "library",
     "description": "Laravel JSON Schema Validator it's a Composer package created to help us to validate JSON Schemas.",
     "keywords": ["laravel", "package", "validator", "json schema", "json", "Henrique Ramos", "madeInBrazil"],
